@@ -2,7 +2,7 @@
 
 ## First name: Illya
 ## Last name: Cherkasov
-## Home work repository HTTPS: https://github.com/icherkasov/FE2907_Cherkasov_HW.git
+## Home work repository HTTPS: https://github.com/icherkasov/icherkasov.github.io
 ## GitGub pages: https://icherkasov.github.io/
 
 ---
