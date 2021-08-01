@@ -1,8 +1,10 @@
 # FE2907 Lesson 1 homework
 
-## Name: Illya
-## Surname: Cherkasov
+## First name: Illya
+## Last name: Cherkasov
 ## Home work repository HTTPS: https://github.com/icherkasov/FE2907_Cherkasov_HW.git
+## GitGub pages: https://icherkasov.github.io/
+
 ---
 Примечания:
 
